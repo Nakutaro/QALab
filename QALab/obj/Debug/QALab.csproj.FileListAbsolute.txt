@@ -1,0 +1,18 @@
+c:\users\snaker\documents\visual studio 2015\Projects\QALab\QALab\bin\Debug\QALab.dll
+c:\users\snaker\documents\visual studio 2015\Projects\QALab\QALab\bin\Debug\QALab.pdb
+c:\users\snaker\documents\visual studio 2015\Projects\QALab\QALab\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\snaker\documents\visual studio 2015\Projects\QALab\QALab\bin\Debug\WebDriver.dll
+c:\users\snaker\documents\visual studio 2015\Projects\QALab\QALab\bin\Debug\WebDriver.xml
+c:\users\snaker\documents\visual studio 2015\Projects\QALab\QALab\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+c:\users\snaker\documents\visual studio 2015\Projects\QALab\QALab\obj\Debug\QALab.dll
+c:\users\snaker\documents\visual studio 2015\Projects\QALab\QALab\obj\Debug\QALab.pdb
+D:\downloads\QALab\QALab\bin\Debug\QALab.dll
+D:\downloads\QALab\QALab\bin\Debug\QALab.pdb
+D:\downloads\QALab\QALab\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\downloads\QALab\QALab\bin\Debug\WebDriver.dll
+D:\downloads\QALab\QALab\bin\Debug\WebDriver.Support.dll
+D:\downloads\QALab\QALab\bin\Debug\WebDriver.xml
+D:\downloads\QALab\QALab\bin\Debug\WebDriver.Support.xml
+D:\downloads\QALab\QALab\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\downloads\QALab\QALab\obj\Debug\QALab.dll
+D:\downloads\QALab\QALab\obj\Debug\QALab.pdb
